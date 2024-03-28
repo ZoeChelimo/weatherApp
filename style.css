@@ -1,0 +1,25 @@
+*{
+    padding: 20px;
+    margin: auto;
+    border-radius: 0%;
+    background-image: url("🌳🌠🌞.jpg");
+}
+header{
+    background-color: aqua;
+    text-align: center;
+    font-style: italic;
+    font-size: large;
+    font-family: 'lucida sans';
+    background-image:url("clouds.jpg");
+}
+#location {
+    border-radius: 2;
+    display: flex;
+    width: 500px;
+    background-color: white;
+
+}
+#search {
+    width: 543px;
+    background-color: blueviolet;
+}
